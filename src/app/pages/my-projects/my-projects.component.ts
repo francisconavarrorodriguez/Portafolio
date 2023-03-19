@@ -32,6 +32,12 @@ export class MyProjectsComponent {
       description: "App de preguntas y respuestas",
       img: "../../../assets/project_imgs/project_preguntasRespuestas.png",
       link: 'https://preguntasrespuestas-bf0bb.web.app/'
+    },
+    {
+      title: "Tarjetas de credito",
+      description: "App de gestion de tarjetas de credito con Angular + Firebase",
+      img: "../../../assets/project_imgs/project_tarjeta.png",
+      link: 'https://tarjetacredito-bed9c.web.app/'
     }
   ]
 }
