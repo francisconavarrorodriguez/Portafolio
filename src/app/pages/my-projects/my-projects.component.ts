@@ -11,31 +11,31 @@ export class MyProjectsComponent {
   public projects: IProject[] = [
     {
       title: "BMI Calculator",
-      description: "Calculadora de metabolismo basal usando Angular + Bootstrap",
+      description: "App para calcular indice de metabolismo basal, utilizando Angular y Bootstrap",
       img: "../../../assets/project_imgs/project_calculator.png",
       link: 'https://ibmcalculator-ef02b.web.app/home'
     },
     {
       title: "Spotify Clone",
-      description: "Pagina clon de Spotify usando Angular",
+      description: "Web clon de Spotify usando Angular, ademas de unit test con Jasmine",
       img: "../../../assets/project_imgs/project_spotify.png",
       link: 'https://spotifyclone-aff6c.web.app/'
     },
     {
       title: "Clima",
-      description: "App de clima por localización consumiendo una API",
+      description: "App de clima por localización seleccionada, utilizando Angular, RxJS y consumiendo una API publica",
       img: "../../../assets/project_imgs/project_clima.png",
       link: 'https://clima-7b0e9.web.app/'
     },
     {
-      title: "Preguntas y Respuestas",
-      description: "App de preguntas y respuestas",
-      img: "../../../assets/project_imgs/project_preguntasRespuestas.png",
+      title: "Quizz",
+      description: "App de preguntas y respuestas, utlizando Angular, RxJS, Bootstrap",
+      img: "../../../assets/project_imgs/project_quizz.png",
       link: 'https://preguntasrespuestas-bf0bb.web.app/'
     },
     {
       title: "Tarjetas de credito",
-      description: "App de gestion de tarjetas de credito con Angular + Firebase",
+      description: "App de gestion y almacenamiento de tarjetas de credito en base de datos, utilizando Angular, Bootstrap y Firebase",
       img: "../../../assets/project_imgs/project_tarjeta.png",
       link: 'https://tarjetacredito-bed9c.web.app/'
     }
